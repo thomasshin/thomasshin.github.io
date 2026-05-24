@@ -38,7 +38,7 @@ Work experience
 Publications
 ======
 * **[Preprint 2026, Under Review]** AdaptArena: Evaluating Test-Time Personalization of Web Agents
-  * **Dongchan Shin**, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon Moon, Fengyuan Liu, Alexandre Drouin, Siva Reddy, Alexandre Lacoste
+  * **Dongchan Shin**, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon Moon, Fengyuan Liu, Alexandre Drouin, Siva Reddy*, Alexandre Lacoste*
 
 * **[ICLR 2025 Oral]** Spider2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
   * Fangyu Lei*, Jixuan Chen*, Yuxiao Ye, Ruisheng Cao, **Dongchan Shin**, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida I. Wang, Tao Yu
