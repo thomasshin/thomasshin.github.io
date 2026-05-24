@@ -28,13 +28,13 @@ Publications
   Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, **Dongchan Shin**, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu
 
 * **[NeurIPS 2025 Spotlight]** OpenCUA: Open Foundations for Computer-Use Agents  
-  Xinyuan Wang*, Bowen Wang*, Dunjie Lu*, Junlin Yang*, Tianbao Xie*, Junli Wang*, ..., **Dongchan Shin**, ..., Diyi Yang, Victor Zhong, Flood Sung, Y Charles, Zhilin Yang, Tao Yu
+  Xinyuan Wang\*, Bowen Wang\*, Dunjie Lu\*, Junlin Yang\*, Tianbao Xie\*, Junli Wang\*, ..., **Dongchan Shin**, ..., Diyi Yang, Victor Zhong, Flood Sung, Y Charles, Zhilin Yang, Tao Yu
 
 * **[TMLR]** DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning  
-  Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, ..., **Dongchan Shin**, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stańczak, Siva Reddy
+  Sara Vera Marjanović\*, Arkil Patel\*, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, ..., **Dongchan Shin**, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stańczak, Siva Reddy
 
 * **[COLM 2024]** OpenAgents: An Open Platform For Language Agents In The Wild  
-  Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, **Dongchan Shin**, Caiming Xiong, Tao Yu
+  Tianbao Xie\*, Fan Zhou\*, Zhoujun Cheng\*, Peng Shi\*, Luoxuan Weng\*, Yitao Liu\*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, **Dongchan Shin**, Caiming Xiong, Tao Yu
 
 News
 ======
