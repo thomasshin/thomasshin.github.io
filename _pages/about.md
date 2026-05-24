@@ -23,7 +23,7 @@ Publications
   ICLR 2025 Oral  
   Fangyu Lei\*, Jixuan Chen\*, Yuxiao Ye, Ruisheng Cao, **Dongchan Shin**, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida I. Wang, Tao Yu
 
-* **AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories**
+* **AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories**  
   COLM 2025  
   Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, **Dongchan Shin**, Alejandra Zambrano, Karolina Stanczak, Peter Shaw, Christopher J.Pal, Siva Reddy
 
