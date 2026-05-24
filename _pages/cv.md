@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, University of Waterloo, advised by Prof. Victor Zhong 2026-
+* B.S. in Chemistry (minor in Computer Science), The University of Hong Kong, 2018-2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09 2026: Ph.D. Student
+  * University of Waterloo
+  * Advisor: Prof. Victor Zhong
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 11 2025 - 02 2026: Research Intern
+  * Vector Institute
+  * Advisor: Prof. Victor Zhong
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03 2025 - 10 2025: Research Intern
+  * Mila - Quebec AI Institute
+  * Advisor: Prof. Siva Reddy
+
+* 05 2023 - 12 2024: Research Assistant
+  * XLANG Lab, HKU NLP Group
+  * Advisor: Prof. Tao Yu
   
 Skills
 ======
