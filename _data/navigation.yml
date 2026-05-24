@@ -10,6 +10,6 @@
 main:
   - title: "Home"
     url: /
-    
+
   - title: "CV"
-    url: /cv/
+    url: /files/Dongchan_CV.pdf
