@@ -36,6 +36,10 @@ Publications
 * **[COLM 2024]** OpenAgents: An Open Platform For Language Agents In The Wild
   Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, **Dongchan Shin**, Caiming Xiong, Tao Yu
 
+News
+======
+* [Oct. 2025] Attending COLM 2025 at Montreal, Canada!
+
 Service
 ======
 * Reviewer
