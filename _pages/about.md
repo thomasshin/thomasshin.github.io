@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am Dongchan Shin, a first-year PhD Student at the University of Waterloo, advised by [Prof. Victor Zhong](https://victorzhong.com/). Previously, I was a research intern at Mila - Quebec AI Institute, advised by [Prof. Siva Reddy](https://sivareddy.in/). I obtained my bachelor's degree from the University of Hong Kong, working with [Prof. Tao Yu](https://taoyds.github.io/).
 
-My research interests lie at the intersection of language agents and AI for scientific discovery. In particular, I’m interested in building AI systems that can become reliable and effective research partners for scientists.
+My research interests lie at the intersection of language agents and AI for Scientific Discovery. In particular, I’m interested in building AI systems that can become reliable and effective research partners for scientists.
 
 Please feel free to reach out!
 
