@@ -16,7 +16,7 @@ Please feel free to reach out!
 Publications
 ======
 * **AdaptArena: Evaluating Test-Time Personalization of Web Agents**  
-  Preprint 2026, Under Review  
+  Under Review  
   **Dongchan Shin**, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon Moon, Fengyuan Liu, Alexandre Drouin, Siva Reddy\*, Alexandre Lacoste\*
 
 * **Spider2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows**  
@@ -50,4 +50,4 @@ News
 Service
 ======
 * Reviewer  
-  ACL Demo (2025, 2026)
+  ACL Demo (2025, 2026), EMNLP Demo (2026)
