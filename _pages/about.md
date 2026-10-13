@@ -17,7 +17,7 @@ Publications
 ======
 * **Corpus2Schema: Inducing Relational and Aspect Schemas from Unstructured Text for Question Answering**  
   Under Review  
-  **Dongchan Shin**, Frank Shan, Victor Zhong
+  **Dongchan Shin**, Ge Shan, Victor Zhong
 
 * **AdaptArena: Evaluating Test-Time Personalization of Web Agents**  
   Preprint 2026, Under Review  
