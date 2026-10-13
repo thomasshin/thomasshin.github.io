@@ -15,7 +15,7 @@ Please feel free to reach out!
 
 Publications
 ======
-* **Corpus2Schema: Inducing Relational and Aspect Schemas fromUnstructured Text for Question Answering**  
+* **Corpus2Schema: Inducing Relational and Aspect Schemas from Unstructured Text for Question Answering**  
   Under Review  
   **Dongchan Shin**, Frank Shan, Victor Zhong
 
