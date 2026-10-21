@@ -54,4 +54,4 @@ News
 Service
 ======
 * Reviewer  
-  NeurIPS Workshop (2026), ACL Demo (2025, 2026), EMNLP Demo (2026)
+  ACL ARR (2026), NeurIPS Workshop (2026), ACL Demo (2025, 2026), EMNLP Demo (2026)
